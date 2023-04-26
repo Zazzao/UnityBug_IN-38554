@@ -1,0 +1,851 @@
+fileFormatVersion: 2
+guid: f929ef2158139264d93c5d5ee1f84ede
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: actor_zigel_walk_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 188
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.48, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f475357f24a5b804a87f732be2a48d56
+      internalID: -1228110923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 187
+        width: 27
+        height: 43
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.13953489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98149abdb751f943ba9f4c52b8a6427
+      internalID: 412076435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 188
+        width: 29
+        height: 41
+      alignment: 9
+      pivot: {x: 0.41379312, y: 0.14634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc76e3de3cdb0f4a8c932e73fc0ebbd
+      internalID: -2013712283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 186
+        width: 27
+        height: 43
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.13953489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ba9de54bfbad043be347cd6f455bcd
+      internalID: -1705941924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 185
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513b7b7e31be1ee4fad34c1ad96ee39c
+      internalID: -1269228372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 185
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1a7582b9c3243438fea1a2f027d48d
+      internalID: 2019080894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 186
+        width: 27
+        height: 43
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.13953489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86903e8e151e8946b44876fe2ae78b6
+      internalID: 1075672429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 188
+        width: 29
+        height: 41
+      alignment: 9
+      pivot: {x: 0.41379312, y: 0.14634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fc092ec6320ce46991b4578cb0dfe3
+      internalID: 2146175661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 126
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.48, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416390e4f4f7c4c479faefd07b6c31e2
+      internalID: 1342971215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 125
+        width: 27
+        height: 43
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.13953489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f07c2f4f367ae4fa83cbf6e529bb24
+      internalID: 1613453431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 126
+        width: 29
+        height: 41
+      alignment: 9
+      pivot: {x: 0.41379312, y: 0.14634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad50e82d7095e294f8a99ed6a1b39c4a
+      internalID: 1331789212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 124
+        width: 27
+        height: 43
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.13953489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0738cce708dad22498154d7ff2f24b14
+      internalID: -1379334390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 123
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18ee084aba9fa64eaf4f8cff45fc487
+      internalID: -1682964980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_13
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 123
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebf5f0e0335de2489b3642787033371
+      internalID: -895993161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_14
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 124
+        width: 27
+        height: 43
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.13953489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ea3d72c0fef944c970b7e7fcd7f60c
+      internalID: -1279251007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 126
+        width: 29
+        height: 41
+      alignment: 9
+      pivot: {x: 0.41379312, y: 0.14634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941fbd8f46d28214fa6020e156cfd745
+      internalID: 1918696431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 64
+        width: 30
+        height: 44
+      alignment: 9
+      pivot: {x: 0.4, y: 0.13636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1e0116072dd1b4b9610c0f0e5840a0
+      internalID: 5245713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 66
+        width: 30
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4, y: 0.14634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ea739372877954786f3d69bbbaf0dd
+      internalID: 1817927593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_18
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 65
+        width: 29
+        height: 42
+      alignment: 9
+      pivot: {x: 0.41379312, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fed14d5c6dcb44ca3e267def988396
+      internalID: -1968506258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 66
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.48, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6289e004eb3a774c81f3812275f7f54
+      internalID: 813559987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 29
+        height: 44
+      alignment: 9
+      pivot: {x: 0.41379312, y: 0.13636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1515632deac8477479bb0639431c9ef3
+      internalID: -1117788748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_21
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 63
+        width: 29
+        height: 44
+      alignment: 9
+      pivot: {x: 0.41379312, y: 0.13636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c1c6dd42b6f6642a0aeb0841a58a7c
+      internalID: -2103588945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 61
+        width: 26
+        height: 46
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.13043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f529cb2007f6b684f80aa9094cf121d4
+      internalID: -1150014996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_23
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 61
+        width: 24
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02c38d82b737ab4d86604e43e7e4101
+      internalID: 924637031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 16
+        width: 30
+        height: 44
+      alignment: 9
+      pivot: {x: 0.4, y: 0.13636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb4d750bd9c18748961acfedff39d9c
+      internalID: 2070533642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 18
+        width: 30
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4, y: 0.14634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8aa828e72beef449e6a4a0502ba026
+      internalID: 69517211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 17
+        width: 29
+        height: 42
+      alignment: 9
+      pivot: {x: 0.41379312, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0098355e590267a4bb27979fff9c0144
+      internalID: 1352564829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_27
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 18
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.48, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e25651c8bb8af4b93ba5a4140561e7
+      internalID: 1883096080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_28
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 16
+        width: 29
+        height: 44
+      alignment: 9
+      pivot: {x: 0.41379312, y: 0.13636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a3e79b8eade27478f63b31599fe5d1
+      internalID: -1866807096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_29
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 15
+        width: 29
+        height: 44
+      alignment: 9
+      pivot: {x: 0.41379312, y: 0.13636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8ba3ad22473b249b2f0c631797c952
+      internalID: -709053113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 13
+        width: 26
+        height: 46
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.13043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d315065ead856744b33912c613a751e
+      internalID: 1799327356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_walk_31
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 13
+        width: 24
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9e05fb3d867f641ba0a75966fafaee
+      internalID: -1895424923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      actor_zigel_walk_10: 1331789212
+      actor_zigel_walk_19: 813559987
+      actor_zigel_walk_12: -1682964980
+      actor_zigel_walk_24: 2070533642
+      actor_zigel_walk_16: 5245713
+      actor_zigel_walk_7: 2146175661
+      actor_zigel_walk_15: 1918696431
+      actor_zigel_walk_28: -1866807096
+      actor_zigel_walk_6: 1075672429
+      actor_zigel_walk_11: -1379334390
+      actor_zigel_walk_14: -1279251007
+      actor_zigel_walk_1: 412076435
+      actor_zigel_walk_5: 2019080894
+      actor_zigel_walk_22: -1150014996
+      actor_zigel_walk_17: 1817927593
+      actor_zigel_walk_4: -1269228372
+      actor_zigel_walk_13: -895993161
+      actor_zigel_walk_26: 1352564829
+      actor_zigel_walk_0: -1228110923
+      actor_zigel_walk_25: 69517211
+      actor_zigel_walk_30: 1799327356
+      actor_zigel_walk_29: -709053113
+      actor_zigel_walk_3: -1705941924
+      actor_zigel_walk_21: -2103588945
+      actor_zigel_walk_27: 1883096080
+      actor_zigel_walk_9: 1613453431
+      actor_zigel_walk_18: -1968506258
+      actor_zigel_walk_31: -1895424923
+      actor_zigel_walk_20: -1117788748
+      actor_zigel_walk_23: 924637031
+      actor_zigel_walk_2: -2013712283
+      actor_zigel_walk_8: 1342971215
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

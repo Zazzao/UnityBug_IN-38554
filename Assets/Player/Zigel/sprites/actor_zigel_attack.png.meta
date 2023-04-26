@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 008709ff5a61cb94eb7c1d20cb1104d9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: actor_zigel_attack_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 206
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cd4708db3569d4698ad0fc01b0dd23
+      internalID: 1534446420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_attack_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 205
+        width: 59
+        height: 50
+      alignment: 9
+      pivot: {x: 0.23728813, y: 0.29999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46b4e8da2e1a904d84ed26a480775d3
+      internalID: -1904917933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_attack_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 206
+        width: 56
+        height: 55
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25454545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c259fa5c3448f4da0e46f47bb93796
+      internalID: 2056351486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_attack_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 206
+        width: 64
+        height: 56
+      alignment: 9
+      pivot: {x: 0.21875, y: 0.23214287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0854c7cde6f04a44b61187029060c48
+      internalID: -524403271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_attack_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 141
+        width: 63
+        height: 54
+      alignment: 9
+      pivot: {x: 0.76190484, y: 0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dac695fcce52f644a20c3f1c50b0cd4
+      internalID: -832285184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_attack_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 142
+        width: 59
+        height: 56
+      alignment: 9
+      pivot: {x: 0.7627119, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384f98a4d3a10084589c2ff1b245aebc
+      internalID: -310720192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_attack_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 143
+        width: 56
+        height: 57
+      alignment: 9
+      pivot: {x: 0.75000006, y: 0.19298247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691c5eb4fd6b35445826364c7953dcf4
+      internalID: 2067722559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_attack_7
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 142
+        width: 63
+        height: 59
+      alignment: 9
+      pivot: {x: 0.6507937, y: 0.20338982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968d4a1515eaf704fbdc3bb90a60a20e
+      internalID: 1924213935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_attack_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 82
+        width: 62
+        height: 51
+      alignment: 9
+      pivot: {x: 0.7580645, y: 0.39215687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dc1bee989c3124ba74cb5033cb7a73
+      internalID: -126791792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_attack_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 84
+        width: 61
+        height: 51
+      alignment: 9
+      pivot: {x: 0.8196721, y: 0.3137255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b128b904b5b4b42911515f842eb917
+      internalID: -879567315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_attack_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 86
+        width: 67
+        height: 50
+      alignment: 9
+      pivot: {x: 0.80597013, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b3e3d8b020ba64689504d3bfb8607b
+      internalID: -695685489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_attack_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 86
+        width: 61
+        height: 52
+      alignment: 9
+      pivot: {x: 0.72131145, y: 0.23076925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172e9b0922e0d574f96d7b708a87a403
+      internalID: -1135949132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_attack_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 27
+        width: 58
+        height: 49
+      alignment: 9
+      pivot: {x: 0.36206895, y: 0.24489796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c12397eeea3874fbe4bfc2ff8f012d
+      internalID: -1861344500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_attack_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 25
+        width: 62
+        height: 51
+      alignment: 9
+      pivot: {x: 0.24193548, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d148c653b2da175478022fb695394560
+      internalID: 720103568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_attack_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 23
+        width: 67
+        height: 54
+      alignment: 9
+      pivot: {x: 0.19402985, y: 0.35185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a676b16910c637b4cbbba2964f80a554
+      internalID: 2114216587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_attack_15
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 25
+        width: 63
+        height: 54
+      alignment: 9
+      pivot: {x: 0.3015873, y: 0.2777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbb567c326dd644b9e52a3cab120428
+      internalID: 1091216628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      actor_zigel_attack_11: -1135949132
+      actor_zigel_attack_3: -524403271
+      actor_zigel_attack_2: 2056351486
+      actor_zigel_attack_13: 720103568
+      actor_zigel_attack_7: 1924213935
+      actor_zigel_attack_9: -879567315
+      actor_zigel_attack_5: -310720192
+      actor_zigel_attack_12: -1861344500
+      actor_zigel_attack_1: -1904917933
+      actor_zigel_attack_14: 2114216587
+      actor_zigel_attack_4: -832285184
+      actor_zigel_attack_0: 1534446420
+      actor_zigel_attack_15: 1091216628
+      actor_zigel_attack_6: 2067722559
+      actor_zigel_attack_8: -126791792
+      actor_zigel_attack_10: -695685489
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

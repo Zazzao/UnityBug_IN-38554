@@ -1,0 +1,411 @@
+fileFormatVersion: 2
+guid: 2ad5adea1d686304fbfc32986f8bc332
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: actor_zigel_dying_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 145
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.22916667, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5077e51eb95111a40a15139d8b8ec50d
+      internalID: -1228804046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_dying_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 145
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.22916667, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ff5a653935a674296bc84467faec5e
+      internalID: 1966200802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_dying_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 145
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.22916667, y: 0.6041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd58f2fbe910b6e4aaa06cea5692ee58
+      internalID: -47620834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_dying_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 106
+        width: 42
+        height: 30
+      alignment: 9
+      pivot: {x: 0.7619048, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec0925d82c27c844819007eab308f08
+      internalID: -2098259845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_dying_4
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 100
+        width: 43
+        height: 36
+      alignment: 9
+      pivot: {x: 0.76744187, y: 0.7222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61a03ae2cc9cdf479ad8a38c06a665a
+      internalID: 1300322506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_dying_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 100
+        width: 43
+        height: 36
+      alignment: 9
+      pivot: {x: 0.7906977, y: 0.7222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb672de04a2c5444935fd07d053bb37
+      internalID: 164134296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_dying_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 58
+        width: 38
+        height: 37
+      alignment: 9
+      pivot: {x: 0.7631579, y: 0.4054054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39838d54e23823344acfdca30e440f77
+      internalID: 1491383245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_dying_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 57
+        width: 44
+        height: 29
+      alignment: 9
+      pivot: {x: 0.72727275, y: 0.6896552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814218fbf4731fe49aef1232928d2219
+      internalID: 166730899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_dying_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 57
+        width: 45
+        height: 29
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.7586207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9719a3e33121e01449f9b5688dcc3f28
+      internalID: 2003362426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_dying_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 14
+        width: 38
+        height: 37
+      alignment: 9
+      pivot: {x: 0.21052632, y: 0.4054054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dc0b267ce20a44386b25357c62600e
+      internalID: 801913834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_dying_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 13
+        width: 44
+        height: 29
+      alignment: 9
+      pivot: {x: 0.25, y: 0.7241379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa468744972c7b441b37fee9a77c8abc
+      internalID: 547768701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actor_zigel_dying_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 11
+        width: 45
+        height: 29
+      alignment: 9
+      pivot: {x: 0.26666668, y: 0.7241379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5a5631ee6dd6d42a3e4cba88f80d0a
+      internalID: 1863685848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      actor_zigel_dying_5: 164134296
+      actor_zigel_dying_4: 1300322506
+      actor_zigel_dying_9: 801913834
+      actor_zigel_dying_11: 1863685848
+      actor_zigel_dying_2: -47620834
+      actor_zigel_dying_7: 166730899
+      actor_zigel_dying_8: 2003362426
+      actor_zigel_dying_1: 1966200802
+      actor_zigel_dying_0: -1228804046
+      actor_zigel_dying_6: 1491383245
+      actor_zigel_dying_3: -2098259845
+      actor_zigel_dying_10: 547768701
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
